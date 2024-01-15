@@ -2,6 +2,10 @@
 
 ## Winner: Top 10 Overall at DeltaHacks X, only solo submission in the top 10.
 
+## Demo:
+
+[![SignSimplified Demo](https://img.youtube.com/vi/LEG_QU8YR8I/0.jpg)](https://youtu.be/LEG_QU8YR8I)
+
 ## Project Overview
 
 "SignSimplified" is an innovative project utilizing computer vision and Python libraries for real-time American Sign Language (ASL) character recognition. This tool aims to enhance inclusivity and communication accessibility.

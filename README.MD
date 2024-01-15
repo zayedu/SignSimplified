@@ -1,5 +1,7 @@
 # SignSimplified: Bridging Communication Gaps with ASL Technology
 
+## Winner: Top 10 Overall at DeltaHacks X, only solo submission in the top 10.
+
 ## Project Overview
 
 "SignSimplified" is an innovative project utilizing computer vision and Python libraries for real-time American Sign Language (ASL) character recognition. This tool aims to enhance inclusivity and communication accessibility.

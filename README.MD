@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-"SignSimplified" is my submission for DeltahacksX, an innovative project utilizing computer vision and Python libraries for real-time American Sign Language (ASL) character recognition. This tool aims to enhance inclusivity and communication accessibility.
+"SignSimplified" is my submission for Deltahacks X, an innovative project utilizing computer vision and Python libraries for real-time American Sign Language (ASL) character recognition. This tool aims to enhance inclusivity and communication accessibility.
 
 ### Features
 
